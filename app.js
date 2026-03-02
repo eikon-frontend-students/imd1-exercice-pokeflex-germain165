@@ -394,7 +394,7 @@
   }
 
   /**
-   * Cache le message d'erreur
+   essage d'erreur
    */
   function hideError() {
     errorMessage.textContent = "";
